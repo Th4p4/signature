@@ -1,0 +1,19 @@
+{
+	"name": "signature",
+	"version": "1.0.0",
+	"type": "module",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"Buffer": "^0.0.0",
+		"axios": "^0.27.2",
+		"bigi": "^1.4.2",
+		"crypto-js": "^4.1.1",
+		"noble-secp256k1": "^1.2.14",
+		"typescript": "^4.8.2"
+	},
+	"devDependencies": {
+		"@types/bigi": "^1.4.3",
+		"@types/node": "^16.11.56"
+	}
+}
